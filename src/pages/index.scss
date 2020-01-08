@@ -1,0 +1,48 @@
+// Colors
+$bg-color: black;
+$dot-color: rgb(177, 164, 164);
+
+// Dimensions
+$dot-size: 2px;
+$dot-space: 22px;
+
+body {
+	background:
+		linear-gradient(90deg, $bg-color ($dot-space - $dot-size), transparent 1%) center,
+		linear-gradient($bg-color ($dot-space - $dot-size), transparent 1%) center,
+		$dot-color;
+	background-size: $dot-space $dot-space;
+	font-family: 'Nunito', sans-serif;
+}
+
+
+
+
+
+
+.main-header {
+	padding-top: 1em;
+	text-align: center;
+	font-size:100px;
+	color: white;
+}
+
+.main-para {
+	text-align: center;
+	font-size:30px;
+	color: white;
+
+}
+
+.nav-links {
+	list-style: none;
+	text-decoration: none;
+	display: flex;
+	flex-direction: row	;
+	justify-content: space-between;
+	padding: 5px;
+	width: 80%;
+	color: white;
+	font-size: 50px;
+	margin: auto
+}
