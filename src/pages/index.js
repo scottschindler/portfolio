@@ -8,6 +8,12 @@ export default () => (
     <h1 class="main-header">Hey, I'm Scott</h1>
     <h2 class="main-para">
       I'm passionate about building amazing and innovative software products.{" "}
+      I'm passionate about building amazing and innovative software products.{" "}
+      I'm passionate about building amazing and innovative software products.{" "}
+      I'm passionate about building amazing and innovative software products.{" "}
+      I'm passionate about building amazing and innovative software products.{" "}
+      I'm passionate about building amazing and innovative software products.{" "}
+      I'm passionate about building amazing and innovative software products. s
     </h2>
   </div>
 )
