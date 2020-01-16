@@ -14,6 +14,10 @@ export default () => (
       I'm passionate about building amazing and innovative software products.{" "}
       I'm passionate about building amazing and innovative software products.{" "}
       I'm passionate about building amazing and innovative software products. s
+      I just want to change more things. I just want to change more things. I
+      just want to change more things. I just want to change more things. I just
+      want to change more things. I just want to change more things.
     </h2>
+    <p> Chaning more things. Changing more things. </p>
   </div>
 )
