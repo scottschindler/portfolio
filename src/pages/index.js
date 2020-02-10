@@ -42,5 +42,6 @@ export default () => (
     <p> Chaning more things. Changing more things. </p>
     <p> Chaning more things. Changing more things. </p>
     <h1>Hello world</h1>
+    <h1>Hello world</h1>
   </div>
 )
